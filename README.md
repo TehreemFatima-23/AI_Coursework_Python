@@ -10,3 +10,7 @@
 <ul>
     <li><strong>AI Course Assignments</strong></li>
 </ul>
+<ul>
+    <li><strong>AI Lab Tasks</strong></li>
+    <li><strong>Lab 1: Python Basics for Artificial Intelligence</strong></li>
+</ul>
