@@ -13,4 +13,6 @@
 <ul>
     <li><strong>AI Lab Tasks</strong></li>
     <li><strong>Lab 1: Python Basics for Artificial Intelligence</strong></li>
+    <li><strong>Lab 2: DFS using Romania Map</strong></li>
+    <li><strong>Lab 3: BFS using Romania Map</strong></li>
 </ul>
