@@ -15,4 +15,5 @@
     <li><strong>Lab 1: Python Basics for Artificial Intelligence</strong></li>
     <li><strong>Lab 2: DFS tarversal using Romania Map</strong></li>
     <li><strong>Lab 3: BFS traversal using Romania Map</strong></li>
+    <li><strong>Lab 4: Maze puzzle solution using BFS</strong></li>
 </ul>
