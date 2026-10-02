@@ -12,8 +12,13 @@
 </ul>
 <ul>
     <li><strong>AI Lab Tasks</strong></li>
-    <li><strong>Lab 1: Python Basics for Artificial Intelligence</strong></li>
-    <li><strong>Lab 2: DFS tarversal using Romania Map</strong></li>
-    <li><strong>Lab 3: BFS traversal using Romania Map</strong></li>
-    <li><strong>Lab 4: Maze puzzle solution using BFS</strong></li>
+    <li>Lab 1: Python Basics for Artificial Intelligence</li>
+    <li><strong>Uninformed Searching Algorithms</strong></li>
+    <li>Lab 2: DFS tarversal using Romania Map</li>
+    <li>Lab 3: BFS traversal using Romania Map</li>
+    <li>Lab 4: Maze puzzle solution using BFS</li>
+    <li>Lab 4: Uniform Cost Search</li>
+    <li><strong>Informed Search</strong></li>
+    <li>Lab 5: Greedy Best-First Search</li>
+    <li>Lab 6: A* Search</li>
 </ul>
