@@ -7,9 +7,7 @@
 </ul>
 
 <h2>Topics Covered</h2>
-<ul>
-    <li><strong>AI Course Assignments</strong></li>
-</ul>
+
 <ul>
     <li><strong>AI Lab Tasks</strong></li>
     <li>Lab 1: Python Basics for Artificial Intelligence</li>
@@ -24,6 +22,6 @@
 <ul>
     <li><strong>AI Lab Assignments</strong></li>
     <li>Lab Assignment 1: Mainly Lists and if-else conditions in Task 1 and Task 2</li>
-    <li>Lab Assignment2: Maze puzzle solution using </li>
+    <li>Lab Assignment 2: Maze puzzle solution using </li>
     <li>Lab Assignment 3: 8-Puzzle solution using Greedy Best First Search</li>
 </ul>
