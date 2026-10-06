@@ -16,9 +16,14 @@
     <li><strong>Uninformed Searching Algorithms</strong></li>
     <li>Lab 2: DFS tarversal using Romania Map</li>
     <li>Lab 3: BFS traversal using Romania Map</li>
-    <li>Lab 4: Maze puzzle solution using BFS</li>
     <li>Lab 4: Uniform Cost Search</li>
     <li><strong>Informed Search</strong></li>
     <li>Lab 5: Greedy Best-First Search</li>
     <li>Lab 6: A* Search</li>
+</ul>
+<ul>
+    <li><strong>AI Lab Assignments</strong></li>
+    <li>Lab Assignment 1: Mainly Lists and if-else conditions in Task 1 and Task 2</li>
+    <li>Lab Assignment2: Maze puzzle solution using </li>
+    <li>Lab Assignment 3: 8-Puzzle solution using Greedy Best First Search</li>
 </ul>
