@@ -18,6 +18,7 @@
     <li><strong>Informed Search</strong></li>
     <li>Lab 5: Greedy Best-First Search</li>
     <li>Lab 6: A* Search</li>
+    <li>Lab 7: Hill climbing and Simulated Annealing</li>
 </ul>
 <ul>
     <li><strong>AI Lab Assignments</strong></li>
