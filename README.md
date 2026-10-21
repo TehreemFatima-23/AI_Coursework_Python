@@ -12,9 +12,10 @@
     <li><strong>AI Lab Tasks</strong></li>
     <li>Lab 1: Python Basics for Artificial Intelligence</li>
     <li><strong>Uninformed Searching Algorithms</strong></li>
+    <li>Simple BFS (Breadth First Search) Implementation</li>
     <li>Lab 2: DFS tarversal using Romania Map</li>
     <li>Lab 3: BFS traversal using Romania Map</li>
-    <li>Lab 4: Uniform Cost Search</li>
+    <li>Lab 4: Uniform Cost Search Implementation</li>
     <li><strong>Informed Search</strong></li>
     <li>Lab 5: Greedy Best-First Search</li>
     <li>Lab 6: A* Search</li>
