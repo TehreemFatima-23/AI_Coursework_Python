@@ -28,3 +28,8 @@
     <li>Lab Assignment 2: Maze puzzle solution using </li>
     <li>Lab Assignment 3: 8-Puzzle solution using Greedy Best First Search with already given input and by getting input from user while program execution</li>
 </ul>
+
+<ul>
+    <li><strong>Practice program problems</strong></li>
+    <li>1. Sum of all numbers from 1 to N</li>
+</ul>
