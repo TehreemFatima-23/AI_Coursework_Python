@@ -33,5 +33,5 @@
     <li><strong>Practice program problems</strong></li>
     <li>1. Sum of all numbers from 1 to N</li>
     <li>2. Check if input number is Even or Odd</li>
-    <li>3. Find the largest of 2 given numebrs</li>
+    <li>3. Find the largest of 3 given numebrs</li>
 </ul>
