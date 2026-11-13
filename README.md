@@ -34,5 +34,5 @@
     <li>1. Sum of all numbers from 1 to N</li>
     <li>2. Check if input number is Even or Odd</li>
     <li>3. Find the largest of 4 given numebrs</li>
-    <li>3. Find if the input number is positive, negative or zero</li>
+    <li>4. Find if the input year is a leap year or not</li>
 </ul>
