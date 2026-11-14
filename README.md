@@ -35,4 +35,5 @@
     <li>2. Check if input number is Even or Odd</li>
     <li>3. Find the largest of 4 given numebrs</li>
     <li>4. Find if the input year is a leap year or not</li>
+    <li>5. Design a Student Grading System</li>
 </ul>
