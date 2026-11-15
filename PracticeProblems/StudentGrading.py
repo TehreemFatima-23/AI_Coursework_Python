@@ -1,5 +1,5 @@
 numbers = int(input("Enter the marks: "))
-
+# Using loop to enable the user to enter the correct input again if it was not valid
 while numbers < 0 or numbers > 100:
     print("Invalid marks. Enter again...")
     numbers = int(input("Enter the marks again: "))
